@@ -511,6 +511,12 @@ th {
 li {
   margin-bottom: calc(1.45rem / 2);
 }
+li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0 30px;
+}
 ol li {
   padding-left: 0;
 }
