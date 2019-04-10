@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import Lyrics from "../components/lyrics"
 
 export default function Template({data}) {
   const song = data.allSongsJson.edges[0].node
@@ -11,7 +12,7 @@ export default function Template({data}) {
       <div>
         <hr />
         <h1>{song.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: song.lyrics }} />
+        <Lyrics lyrics={song.lyrics} />
       </div>
     </Layout>
   )
