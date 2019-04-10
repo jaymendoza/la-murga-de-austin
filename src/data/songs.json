@@ -6,10 +6,24 @@
       "Dale, Dale, Dale, Dale, Dale, Dale, Ooooooh"
     ]
   },
+  { "title": "Let's go ATX!",
+    "slug": "/lets-go-atx/",
+    "lyrics": []
+  },
   { "title": "Oye, Mamacita!",
     "slug": "/oye-mamacita/",
-    "lyrics": [
-      "None yet"
-    ]
+    "lyrics": []
+  },
+  { "title": "The Band Marches On",
+    "slug": "/the-band-marches-on/",
+    "lyrics": []
+  },
+  { "title": "McKalla",
+    "slug": "/mckalla/",
+    "lyrics": []
+  },
+  { "title": "Frijoles",
+    "slug": "/frijoles/",
+    "lyrics": []
   }
 ]
