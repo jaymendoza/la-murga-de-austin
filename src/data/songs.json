@@ -5,7 +5,12 @@
       "Dale, Dale, Dale, Dale, Dale, Dale, Austin",
       "Dale, Dale, Dale, Dale, Dale, Dale, Ooooooh"
     ],
-    "videoId": "HTswagNd1lE"
+    "videoId": "HTswagNd1lE",
+    "downloads": [
+      { "name": "Trumpet", "link": "https://drive.google.com/open?id=1lgU4xyKIegdIAP80fEqu4oSvFil5uOdF" },
+      { "name": "Trombone", "link": "https://drive.google.com/open?id=1JyKXJtAF9Y2DiaO3jTvLqAXDbqESOdAx" },
+      { "name": "Full Score", "link": "https://drive.google.com/open?id=1TwgT6dfFBgXZ5uDUx2s-x9j4YIoO_XBB" }
+    ]
   },
   { "title": "Let's go ATX",
     "slug": "/lets-go-atx/",
