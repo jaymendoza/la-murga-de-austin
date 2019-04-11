@@ -6,6 +6,7 @@
       "Dale, Dale, Dale, Dale, Dale, Dale, Ooooooh"
     ],
     "videoId": "HTswagNd1lE",
+    "spotifySongId": "6PfNhcTuMItHBwVMaLTF9B",
     "downloads": [
       { "name": "Trumpet", "link": "https://drive.google.com/open?id=1lgU4xyKIegdIAP80fEqu4oSvFil5uOdF" },
       { "name": "Trombone", "link": "https://drive.google.com/open?id=1JyKXJtAF9Y2DiaO3jTvLqAXDbqESOdAx" },
@@ -13,23 +14,22 @@
     ]
   },
   { "title": "Let's go ATX",
-    "slug": "/lets-go-atx/",
-    "lyrics": []
+    "slug": "/lets-go-atx/"
   },
   { "title": "Oye, Mamacita",
     "slug": "/oye-mamacita/",
-    "lyrics": []
+    "spotifySongId": "4sdq0WlAYxPUXdzGMY4XZK"
   },
   { "title": "The Band Marches On",
     "slug": "/the-band-marches-on/",
-    "lyrics": []
+    "spotifySongId": "4cbUxPcH6bLA5H1ZADXFmx"
   },
   { "title": "McKalla",
     "slug": "/mckalla/",
-    "lyrics": []
+    "spotifySongId": "1rfofaqEpACxVEHIZBJe6W"
   },
   { "title": "Frijoles",
     "slug": "/frijoles/",
-    "lyrics": []
+    "spotifySongId": "1DTygSYDknvOh4RLSzMcmL"
   }
 ]
